@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "String",
+      "author": "String",
+      "url": "String",
+      "likes": 1
+    },
+    {
+      "title": "String",
+      "author": "String",
+      "url": "String",
+      "likes": 1
+    },
+    {
+      "title": "String",
+      "author": "String",
+      "url": "String",
+      "likes": 1
+    },
+    {
+      "title": "String",
+      "author": "String",
+      "url": "String",
+      "likes": 1
+    },
+    {
+      "title": "String",
+      "author": "String",
+      "url": "String",
+      "likes": 1
+    }
+  ]
+}

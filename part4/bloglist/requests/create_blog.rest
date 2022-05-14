@@ -1,0 +1,12 @@
+POST http://localhost:3001/api/blogs HTTP/1.1
+Content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluMTIzIiwiaWQiOiI2MTNlODFmNjU3OWYzZjFkNzk3N2VhYzAiLCJpYXQiOjE2MzE0ODc3OTYsImV4cCI6MTYzMTQ5MTM5Nn0.4rqhW41qX1dnZTq1KWCf468Pn0vmB0Nqm2cU0bXJ2jM
+
+{
+    "title": "Blog 11111",
+    "author": "admin123",
+    "url": "http://",
+    "likes": 1,
+    "userId": "613e81f6579f3f1d7977eac0",
+    "comment": ["gut","muito bom","lbmc"]
+}
